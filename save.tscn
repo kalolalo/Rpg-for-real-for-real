@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://last ned (12).jpg" type="Texture" id=1]
+
+[node name="save" type="Node2D"]
+
+[node name="last ned (12)" type="Sprite" parent="."]
+position = Vector2( 479.734, 327.405 )
+texture = ExtResource( 1 )
